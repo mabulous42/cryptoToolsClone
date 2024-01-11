@@ -26,7 +26,6 @@ code {
   background-color: rgb(18,20,44);
   height: 100vh;
   overflow: auto;
-  padding-top: 9rem;
 }
 
 .decentralized-outer-div{
@@ -37,6 +36,7 @@ code {
 }
 
 .decentralized{
+  margin: 9rem 0;
   padding-left: 1rem;
 }
 
