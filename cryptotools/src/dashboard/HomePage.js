@@ -15,7 +15,6 @@ function HomePage() {
                             <div className='d-flex align-items-center'>
                                 <p>Connect wallet then proceed to make your selection </p>
                                 <button className='rounded-pill'>Connect Wallet</button>
-                                <button>Abbas</button>
                             </div>
                         </div>
                         <div className='w-50'>
